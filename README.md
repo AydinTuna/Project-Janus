@@ -1,2 +1,2 @@
 # Project-Janus
-Me and my teammates created a game for #globalgamejam2022 
+Me and my teammates developed a game for #globalgamejam2022 
